@@ -179,7 +179,7 @@ Adjust the folder structure above according to your actual repository files.
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/B2B-Sales-Pipeline-Analytics.git
+https://b2b-sales-pipeline-analytics-4eu2dejawdmzxkgxumcpmv.streamlit.app/
 
 2. Navigate to the Project Folder
 
@@ -205,7 +205,7 @@ streamlit run app.py
 
 The dashboard will open in your browser at:
 
-http://localhost:8501
+https://b2b-sales-pipeline-analytics-4eu2dejawdmzxkgxumcpmv.streamlit.app/
 
 ---
 
