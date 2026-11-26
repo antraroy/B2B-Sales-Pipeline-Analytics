@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-from analysis import (funnel, headline_kpis, load, monthly_revenue, stage_durations,
+from analytics import (funnel, headline_kpis, load, monthly_revenue, stage_durations,
                           weighted_forecast, win_model, win_rate_by)
 
 st.set_page_config(page_title="B2B Sales Pipeline Analytics", page_icon="📈", layout="wide")
